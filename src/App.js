@@ -11,7 +11,7 @@ function App() {
                 Quizzical
             </div>
             <div className='app-description'>
-                Description
+                Some description if needed
             </div>
             <button className='app-startquiz' onClick={startQuiz}>
                 Start quiz
